@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thomas IANNICCA</h1>
-<h3 align="center">I'm a Front-end developer based in Lille, France</h3>
+<h3 align="center">I'm a Fullstack developer based in Lille, France</h3>
 
 - 🔭 I’m currently studying at [O'clock school](https://oclock.io/)
 
