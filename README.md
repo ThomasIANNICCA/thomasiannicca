@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **React.JS/PHP**
 
-- 👨‍💻 All of my projects are available at [https://thomasiannicca.github.io/my-portfolio/](https://thomasiannicca.github.io/my-portfolio/)
-
-- 📄 Know about my experiences [https://thomasiannicca.github.io/my-portfolio/about.html](https://thomasiannicca.github.io/my-portfolio/about.html)
-
 - 📫 How to reach me **thomas.iann@hotmail.fr**
 
 - ⚡ I love to play **music and tennis**
